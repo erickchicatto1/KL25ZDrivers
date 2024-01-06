@@ -1,0 +1,2 @@
+../drivers/app.config.c:34:6:SysTick_Handler	0	static
+../drivers/app.config.c:42:6:SysTick_DelayTicks	0	static

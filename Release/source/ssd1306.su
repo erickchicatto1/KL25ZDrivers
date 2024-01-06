@@ -1,0 +1,6 @@
+../source/ssd1306.c:22:6:setBit	0	static
+../source/ssd1306.c:26:6:clearBit	0	static
+../source/ssd1306.c:30:6:toggleBit	0	static
+../source/ssd1306.c:34:6:writeByte	0	static
+../source/ssd1306.c:50:10:WriteCommands	8	static
+../source/ssd1306.c:67:6:ssd1306_write	1080	static

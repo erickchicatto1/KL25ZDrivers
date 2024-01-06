@@ -1,0 +1,11 @@
+../drivers/fsl_tpm.c:63:6:TPM_Init	12	static
+../drivers/fsl_tpm.c:101:6:TPM_Deinit	0	static
+../drivers/fsl_tpm.c:111:6:TPM_GetDefaultConfig	0	static
+../drivers/fsl_tpm.c:140:10:TPM_SetupPwm	32	static
+../drivers/fsl_tpm.c:344:6:TPM_UpdatePwmDutycycle	16	static
+../drivers/fsl_tpm.c:394:6:TPM_UpdateChnlEdgeLevelSelect	8	static
+../drivers/fsl_tpm.c:424:6:TPM_SetupInputCapture	0	static
+../drivers/fsl_tpm.c:469:6:TPM_SetupOutputCompare	8	static
+../drivers/fsl_tpm.c:675:6:TPM_EnableInterrupts	16	static
+../drivers/fsl_tpm.c:698:6:TPM_DisableInterrupts	16	static
+../drivers/fsl_tpm.c:721:10:TPM_GetEnabledInterrupts	16	static

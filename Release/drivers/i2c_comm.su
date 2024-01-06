@@ -1,0 +1,2 @@
+../drivers/i2c_comm.c:20:6:i2c_init	16	static
+../drivers/i2c_comm.c:33:10:i2c_transfer	16	static

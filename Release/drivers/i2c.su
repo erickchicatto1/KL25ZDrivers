@@ -1,0 +1,9 @@
+../drivers/i2c.c:14:6:i2c_init2	8	static
+../drivers/i2c.c:29:6:i2c_DisableAck	0	static
+../drivers/i2c.c:34:6:i2c_EnableAck	0	static
+../drivers/i2c.c:38:6:i2c_RepeatedStart	0	static
+../drivers/i2c.c:42:6:i2c_EnterRxMode	0	static
+../drivers/i2c.c:46:6:i2c_Start	0	static
+../drivers/i2c.c:51:6:i2c_Stop	0	static
+../drivers/i2c.c:56:6:i2c_WriteByte	0	static
+../drivers/i2c.c:61:9:i2c_ReadByte	0	static

@@ -1,0 +1,4 @@
+../source/GP2Y10.c:11:6:ADC_Init	24	static
+../source/GP2Y10.c:26:10:ADC_Read	24	static
+../source/GP2Y10.c:41:7:ConvertToVoltage	8	static
+../source/GP2Y10.c:45:7:GetDustConcentration	8	static
